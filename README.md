@@ -1,5 +1,3 @@
-# Cascading Word Count
-
 This project describes how to run a simple wordcount example using Cascading on QDS.
 
 ---
