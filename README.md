@@ -1,4 +1,4 @@
-# Cascading Word Count example using Qubole's Jars
+# Cascading Word Count
 
 This project describes how to run a simple wordcount example using Cascading on QDS.
 
